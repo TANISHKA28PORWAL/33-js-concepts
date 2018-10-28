@@ -4,6 +4,7 @@
   <br>
     <br>
   JavaScript开发者应懂的33个概念
+  33 concepts that developers should understand
   <br>
 </h1>
 
