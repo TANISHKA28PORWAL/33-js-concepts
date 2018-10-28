@@ -18,8 +18,11 @@
 ## 更新
 
 若有觉得更好的文章或者视频，可以贡献出来，觉得有误的，请联系我删除。
+If you feel that you have a better article or video, you can contribute it. If you feel it is wrong, please contact me to delete it.
+
 
 - 文章的排序优化，前面的文章是介绍概念，后面的文章是深入解读。
+- Sorting optimization of articles, the previous article is to introduce concepts, and the following articles are in-depth interpretation.
 - 将原文的 "高阶函数" 和 "map, reduce, filter" 合并为 "map, reduce, filter 等高阶函数"
 - 增加 "promise" 概念(替换删除的 "高阶函数")
 - 2018-10-24 更新：@BuptStEve 贡献的三篇关于“函数式编程”方面的文章
