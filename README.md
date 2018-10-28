@@ -107,7 +107,7 @@
 ---
 
 ## 3. 值类型和引用类型
-
+Value type and reference type
 ### 文章
 
 - :book: [ECMAScript 引用类型 —— W3school](http://www.w3school.com.cn/js/pro_js_referencetypes.asp)
